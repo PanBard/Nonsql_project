@@ -1,0 +1,71 @@
+version: '3'
+services:
+
+  frontend_mongo_shop:
+    restart: on-failure
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: frontend_mongo_shop
+    networks:
+      - custom_network
+    depends_on:
+      - dotnet_api_mongo_shop
+    ports:
+      - "4231:4200"
+
+  dotnet_api_mongo_shop:
+    restart: on-failure
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+    ports:
+      - "8045:80"
+    container_name: dotnet_api_mongo_shop
+    environment:
+      - ASPNETCORE_URLS=http://+:80
+    volumes:
+      - ./cache_data:/App/cache_data
+    networks:
+      - custom_network
+    depends_on:
+      - mongodb_shop
+
+  # connectionstring -> mongodb://root:example@localhost:27017/
+  mongodb_shop:
+    image: mongo:5.0
+    container_name: mongodb_shop
+    restart: on-failure
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+      # volumes:
+      # - mongodb_data:/data/db #link volume 'mongodb_data' to store data from database on host system
+      # - ./mongodb_init/mongo-init.js:/docker-entrypoint-initdb.d/mongo-init.js:root # run init_mongodb.js to automatically create 
+      # ports:
+      #   - 27017:27017
+    networks:
+      - custom_network
+
+  mongo_express_shop:
+    image: mongo-express
+    container_name: mongo_express_shop
+    restart: on-failure
+    ports:
+      - 8081:8081
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: root
+      ME_CONFIG_MONGODB_ADMINPASSWORD: example
+      ME_CONFIG_MONGODB_URL: mongodb://root:example@mongodb_shop:27017/
+      ME_CONFIG_BASICAUTH: false
+    networks:
+      - custom_network
+
+volumes:
+  mongodb_data:
+    #create volume 'mongodb_data' to store data from database on host system
+
+
+networks:
+  custom_network:
+    driver: bridge

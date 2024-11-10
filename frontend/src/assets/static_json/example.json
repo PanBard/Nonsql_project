@@ -1,0 +1,189 @@
+﻿{
+  "id": null,
+  "url": null,
+  "title": null,
+  "last_refresh_time": null,
+  "created_time": null,
+  "valid_to_time": null,
+  "pushup_time": null,
+  "description": null,
+  "promotion": {
+    "highlighted": null,
+    "urgent": null,
+    "top_ad": null,
+    "options": [
+      null
+    ],
+    "b2c_ad_page": null,
+    "premium_ad_page": null
+  },
+  "params": [
+    {
+      "key": "price",
+      "name": "Cena",
+      "type": "price",
+      "value": {
+        "value": null,
+        "type": "arranged",
+        "arranged": true,
+        "budget": false,
+        "currency": "PLN",
+        "negotiable": true,
+        "converted_value": null,
+        "previous_value": null,
+        "converted_previous_value": null,
+        "converted_currency": null,
+        "label": "4 999 zł",
+        "previous_label": null
+      }
+    },
+    {
+      "key": "state",
+      "name": "Stan",
+      "type": "select",
+      "value": {
+        "key": "null",
+        "label": "null"
+      }
+    },
+    {
+      "key": "brand",
+      "name": "Marka",
+      "type": "select",
+      "value": {
+        "key": "null",
+        "label": "null"
+      }
+    },
+    {
+      "key": "colorfashion",
+      "name": "Kolor",
+      "type": "select",
+      "value": {
+        "key": "null",
+        "label": "null"
+      }
+    },
+    {
+      "key": "amortisation",
+      "name": "Amortyzacja",
+      "type": "select",
+      "value": {
+        "key": "null",
+        "label": "null"
+      }
+    },
+    {
+      "key": "derailleurtype",
+      "name": "Rodzaj przerzutki",
+      "type": "select",
+      "value": {
+        "key": "null",
+        "label": "null"
+      }
+    },
+    {
+      "key": "braketype",
+      "name": "Typ hamulca",
+      "type": "select",
+      "value": {
+        "key": "null",
+        "label": "null"
+      }
+    },
+    {
+      "key": "wheelsize",
+      "name": "Rozmiar koła",
+      "type": "select",
+      "value": {
+        "key": "null",
+        "label": "null"
+      }
+    }
+  ],
+  "key_params": [],
+  "business": false,
+  "user": {
+    "id": null,
+    "created": null,
+    "other_ads_enabled": null,
+    "name": null,
+    "logo": null,
+    "logo_ad_page": null,
+    "social_network_account_type": null,
+    "photo": null,
+    "banner_mobile": "",
+    "banner_desktop": "",
+    "company_name": "",
+    "about": "",
+    "b2c_business_page": false,
+    "is_online": false,
+    "last_seen": null,
+    "seller_type": null,
+    "uuid": null
+  },
+  "status": null,
+  "contact": {
+    "name": null,
+    "phone": null,
+    "chat": null,
+    "negotiation": null,
+    "courier": null
+  },
+  "map": {
+    "zoom": null,
+    "lat": null,
+    "lon": null,
+    "radius": null,
+    "show_detailed": null
+  },
+  "location": {
+    "city": {
+      "id": null,
+      "name": "null",
+      "normalized_name": "null"
+    },
+    "district": {
+      "id": null,
+      "name": "null"
+    },
+    "region": {
+      "id": null,
+      "name": "null",
+      "normalized_name": "null"
+    }
+  },
+  "photos": [
+    {
+      "id": 1,
+      "filename": "null",
+      "rotation": 0,
+      "width": 1492,
+      "height": 908,
+      "link": "null"
+    }
+  ],
+  "partner": null,
+  "category": {
+    "id": null,
+    "type": "null"
+  },
+  "delivery": {
+    "rock": {
+      "offer_id": null,
+      "active": null,
+      "mode": "null"
+    }
+  },
+  "safedeal": {
+    "weight": 0,
+    "weight_grams": 0,
+    "status": "null",
+    "safedeal_blocked": null,
+    "allowed_quantity": []
+  },
+  "shop": {
+    "subdomain": null
+  },
+  "offer_type": "null"
+}
