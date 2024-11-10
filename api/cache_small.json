@@ -1,0 +1,3074 @@
+{
+  "data": [
+    {
+      "id": 899337637,
+      "url": "https://www.olx.pl/d/oferta/rower-elektryczny-mbk-super-stan-jak-nowy-yamaha-maly-przebieg-CID767-IDYRvNL.html",
+      "title": "Rower elektryczny MBK ,super stan jak nowy, yamaha,mały przebieg",
+      "last_refresh_time": "2024-04-09T20:52:05+02:00",
+      "created_time": "2024-02-22T09:01:53+01:00",
+      "valid_to_time": "2024-04-22T13:27:29+02:00",
+      "pushup_time": null,
+      "description": "Witam, do zaoferowania rower elektryczny MBK w super stanie, rower bez wkładu finansowego . Silnik centralny yamaha , bateria oryginalna 400 yamaha w super stanie, mała ilość cykli ładowania gdyż na rowerze głównie jezdzono w trybie eco. Rower praktycznie bezobsługowy z jednym z najlepszych jak nie najlepszym systemem do rowerow miejskich i trekingowych z uwagi na system nexusa , 8 biegów , piasta planetarna wewnętrzna napędzana paskiem carbonowym Gates, na rowerze mozliwa dalsza jazda nawet w przypadku rozladowania baterii jak w zwyklym rowerze. Nie trzeba regulowac tak czyścić ,smarować jak zwykłego napędu odchodza koszty serwisu nie malego , wymiany kasety i lancucha .Rower że znikomym przebiegiem 2000km, w suoer stanie jak nowy , posiada całkowity osprzet błotniki, bagaznik, oświetlenie, stopka ,regulowany mostek ,hamulce tarczowe shimano, amortyzowany przód, amortyzacja siodelka ....<br />\nW zestawie ladowarka , klucze do baterii,  klucze do blokady kradzieżowej na kole. Zasieg roweru ponad 100 km. Bateria ma około 20 cykli ładowania,  przechowywana i eksploatowana zgodnie z instrukcja obsługi,   rower jak ze sklepu.<br />\nZapraszam.na inne ogloszenia.<br />\nProszę o przemyślane propozycje , jestem otwarty na negocjacje , rozsądne.",
+      "promotion": {
+        "highlighted": false,
+        "urgent": false,
+        "top_ad": true,
+        "options": [
+          "promoted_ad_30"
+        ],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "price",
+          "name": "Cena",
+          "type": "price",
+          "value": {
+            "value": 4999,
+            "type": "arranged",
+            "arranged": true,
+            "budget": false,
+            "currency": "PLN",
+            "negotiable": true,
+            "converted_value": null,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": null,
+            "label": "4 999 zł",
+            "previous_label": null
+          }
+        },
+        {
+          "key": "state",
+          "name": "Stan",
+          "type": "select",
+          "value": {
+            "key": "used",
+            "label": "Używane"
+          }
+        },
+        {
+          "key": "brand",
+          "name": "Marka",
+          "type": "select",
+          "value": {
+            "key": "others",
+            "label": "Inna"
+          }
+        },
+        {
+          "key": "colorfashion",
+          "name": "Kolor",
+          "type": "select",
+          "value": {
+            "key": "grey",
+            "label": "Szary"
+          }
+        },
+        {
+          "key": "amortisation",
+          "name": "Amortyzacja",
+          "type": "select",
+          "value": {
+            "key": "front",
+            "label": "Przód"
+          }
+        },
+        {
+          "key": "derailleurtype",
+          "name": "Rodzaj przerzutki",
+          "type": "select",
+          "value": {
+            "key": "internal-hub",
+            "label": "Wewnętrzna (w piaście)"
+          }
+        },
+        {
+          "key": "braketype",
+          "name": "Typ hamulca",
+          "type": "select",
+          "value": {
+            "key": "hydraulic-discs",
+            "label": "Tarczowe hydrauliczne"
+          }
+        },
+        {
+          "key": "wheelsize",
+          "name": "Rozmiar koła",
+          "type": "select",
+          "value": {
+            "key": "28",
+            "label": "28\""
+          }
+        }
+      ],
+      "key_params": [],
+      "business": false,
+      "user": {
+        "id": 27736809,
+        "created": "2014-12-21T22:40:07+01:00",
+        "other_ads_enabled": true,
+        "name": "Marek",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": "facebook",
+        "photo": null,
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2024-04-09T16:44:17+02:00",
+        "seller_type": null,
+        "uuid": "6048a123-263d-464c-81b1-47cee39ba46b"
+      },
+      "status": "active",
+      "contact": {
+        "name": "Marek",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 13,
+        "lat": 50.52039,
+        "lon": 19.43257,
+        "radius": 1,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 20641,
+          "name": "Zawiercie",
+          "normalized_name": "zawiercie"
+        },
+        "district": {
+          "id": 537,
+          "name": "Centrum"
+        },
+        "region": {
+          "id": 6,
+          "name": "Śląskie",
+          "normalized_name": "slaskie"
+        }
+      },
+      "photos": [
+        {
+          "id": 7153835341,
+          "filename": "vjpe85l3d7m8-PL",
+          "rotation": 0,
+          "width": 1492,
+          "height": 908,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/vjpe85l3d7m8-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7153835342,
+          "filename": "sphlthzxbjag-PL",
+          "rotation": 0,
+          "width": 908,
+          "height": 1634,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/sphlthzxbjag-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7153835340,
+          "filename": "241ufus2p1y11-PL",
+          "rotation": 0,
+          "width": 1008,
+          "height": 454,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/241ufus2p1y11-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7153835343,
+          "filename": "b8kykpw8ha0v2-PL",
+          "rotation": 0,
+          "width": 1008,
+          "height": 454,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/b8kykpw8ha0v2-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7153835344,
+          "filename": "f1ty035zhmki2-PL",
+          "rotation": 0,
+          "width": 1760,
+          "height": 908,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/f1ty035zhmki2-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7153835345,
+          "filename": "2onadv56shss3-PL",
+          "rotation": 0,
+          "width": 454,
+          "height": 1008,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/2onadv56shss3-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7153835346,
+          "filename": "8im5l9u0h2kv3-PL",
+          "rotation": 0,
+          "width": 1008,
+          "height": 454,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/8im5l9u0h2kv3-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7153835347,
+          "filename": "gbfy94idkvba2-PL",
+          "rotation": 0,
+          "width": 908,
+          "height": 1790,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/gbfy94idkvba2-PL/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 1649,
+        "type": "goods"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": "NotEligible"
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "offer_type": "offer"
+    },
+    {
+      "id": 851907530,
+      "url": "https://www.olx.pl/d/oferta/rower-elektryczny-sparta-super-stan-CID767-IDWEv42.html",
+      "title": "Rower elektryczny Sparta super stan",
+      "last_refresh_time": "2024-04-18T08:09:32+02:00",
+      "created_time": "2023-07-30T16:00:37+02:00",
+      "valid_to_time": "2024-05-18T08:09:32+02:00",
+      "pushup_time": null,
+      "description": "Mam na sprzedaż rower elektryczny firmy Sparta.<br />\nSprzedam aluminiowy, holenderski rower SPARTA w bardzo dobrym stanie ze wspomaganiem elektrycznym. <br />\nRower ma dwie metody wspomagania:<br />\n1) wspomaganie manetką gazu (jazda bez pedałowania)<br />\n2) wspomaganie podczas ruchu pedałami, załączane automatycznie.<br />\nOczywiście bez włączenia sterownika działa jak zwykły rower.<br />\n<br />\nWyposażenie:<br />\n-bateria mobilna, zamykana kluczykiem z możliwością odpięcia, np w celu ładowania lub ochrony, z ładowarką, zasięg w zależności od mocy wspomagania: 1-3bieg: 40 km<br />\n<br />\nkoła 28 cali",
+      "promotion": {
+        "highlighted": true,
+        "urgent": false,
+        "top_ad": true,
+        "options": [
+          "bundle_basic"
+        ],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "price",
+          "name": "Cena",
+          "type": "price",
+          "value": {
+            "value": 2000,
+            "type": "price",
+            "arranged": false,
+            "budget": false,
+            "currency": "PLN",
+            "negotiable": true,
+            "converted_value": null,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": null,
+            "label": "2 000 zł",
+            "previous_label": null
+          }
+        },
+        {
+          "key": "state",
+          "name": "Stan",
+          "type": "select",
+          "value": {
+            "key": "used",
+            "label": "Używane"
+          }
+        },
+        {
+          "key": "colorfashion",
+          "name": "Kolor",
+          "type": "select",
+          "value": {
+            "key": "black",
+            "label": "Czarny"
+          }
+        },
+        {
+          "key": "wheelsize",
+          "name": "Rozmiar koła",
+          "type": "select",
+          "value": {
+            "key": "28",
+            "label": "28\""
+          }
+        }
+      ],
+      "key_params": [],
+      "business": false,
+      "user": {
+        "id": 820141620,
+        "created": "2021-04-23T12:56:51+02:00",
+        "other_ads_enabled": true,
+        "name": "Cosladnego",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": null,
+        "photo": null,
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2024-04-18T08:10:12+02:00",
+        "seller_type": null,
+        "uuid": "1596f91d-b481-4665-9647-11864402c22c"
+      },
+      "status": "active",
+      "contact": {
+        "name": "Cosladnego",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 12,
+        "lat": 51.22468,
+        "lon": 19.30511,
+        "radius": 1,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 135525,
+          "name": "Kleszczów",
+          "normalized_name": "kleszczow_135525"
+        },
+        "region": {
+          "id": 7,
+          "name": "Łódzkie",
+          "normalized_name": "lodzkie"
+        }
+      },
+      "photos": [
+        {
+          "id": 6159630881,
+          "filename": "q5ug3swyqt1m-PL",
+          "rotation": 0,
+          "width": 2000,
+          "height": 2667,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/q5ug3swyqt1m-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 6159630882,
+          "filename": "q9lraj500m6i-PL",
+          "rotation": 0,
+          "width": 2000,
+          "height": 2667,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/q9lraj500m6i-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 6159630883,
+          "filename": "vked4112rpod-PL",
+          "rotation": 0,
+          "width": 2000,
+          "height": 2667,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/vked4112rpod-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 6159630884,
+          "filename": "3se02xsia1lr3-PL",
+          "rotation": 0,
+          "width": 4624,
+          "height": 3468,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/3se02xsia1lr3-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 6159630885,
+          "filename": "k48jw3pvepcx-PL",
+          "rotation": 0,
+          "width": 2000,
+          "height": 2667,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/k48jw3pvepcx-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 6159630886,
+          "filename": "jt29yx1wnlc93-PL",
+          "rotation": 0,
+          "width": 2000,
+          "height": 2667,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/jt29yx1wnlc93-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 6159630887,
+          "filename": "sczo9wguk0sc2-PL",
+          "rotation": 0,
+          "width": 2000,
+          "height": 2667,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/sczo9wguk0sc2-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 6159630889,
+          "filename": "ucjjrew8q0a-PL",
+          "rotation": 0,
+          "width": 2000,
+          "height": 2667,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/ucjjrew8q0a-PL/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 1649,
+        "type": "goods"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": "NotEligible"
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "offer_type": "offer"
+    },
+    {
+      "id": 908332999,
+      "url": "https://www.olx.pl/d/oferta/rower-elektryczny-ridstar-h20-CID767-IDZtgUf.html",
+      "title": "Rower elektryczny Ridstar H20",
+      "last_refresh_time": "2024-04-20T10:18:41+02:00",
+      "created_time": "2024-03-29T10:34:09+01:00",
+      "valid_to_time": "2024-04-28T12:05:26+02:00",
+      "pushup_time": "2024-04-20T10:18:41+02:00",
+      "omnibus_pushup_time": "2024-04-20T10:18:41+02:00",
+      "description": "Witam do sprzedania Ridstar H20 1000W 20inch 45km/h 14a E-bike <br />\nponiżej specyfikacja techniczna > <br />\n<br />\nMożna dokupić jeszcze jedną baterią <br />\n<br />\nRzeczywista waga: 30 kg<br />\nTryb: czysto elektryczny, wspomaganie elektryczne, pedałowanie<br />\nMateriał ramy: aluminium<br />\nWidelec przedni: widelec hydrauliczny<br />\nUkład hamulcowy: przednie i tylne hamulce tarczowe<br />\nPrzekładnia: napęd tylny<br />\nRozmiar opony: 20*4.0<br />\nWyświetlacz: LCD<br />\nPrędkość maksymalna ≤ 45 km/h<br />\nZasięg 60-90 km<br />\nKąt nachylenia 25°<br />\nMasa ładunku ≤150 kg<br />\nParametry silnika<br />\nTyp silnika: Szybki bezszczotkowy silnik prądu stałego<br />\nMoc znamionowa 1000 W<br />\nNapięcie znamionowe 48V<br />\nGłówne parametry techniczne ładowania<br />\nMoc wyjściowa 2A<br />\nCzas ładowania 4-6 godz.<br />\nParametry baterii litowej<br />\nTyp baterii: bateria litowa 18650<br />\nPojemność 14AH<br />\nGłówne parametry kontrolera<br />\nOchrona przed niskim napięciem: 39V<br />\nZabezpieczenie nadprądowe: 25A",
+      "promotion": {
+        "highlighted": true,
+        "urgent": false,
+        "top_ad": true,
+        "options": [
+          "bundle_optimum"
+        ],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "price",
+          "name": "Cena",
+          "type": "price",
+          "value": {
+            "value": 3300,
+            "type": "price",
+            "arranged": false,
+            "budget": false,
+            "currency": "PLN",
+            "negotiable": true,
+            "converted_value": null,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": null,
+            "label": "3 300 zł",
+            "previous_label": null
+          }
+        },
+        {
+          "key": "state",
+          "name": "Stan",
+          "type": "select",
+          "value": {
+            "key": "new",
+            "label": "Nowe"
+          }
+        }
+      ],
+      "key_params": [],
+      "business": false,
+      "user": {
+        "id": 1553372427,
+        "created": "2023-05-23T21:33:00+02:00",
+        "other_ads_enabled": true,
+        "name": "Bogdan",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": null,
+        "photo": null,
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2024-04-19T20:35:25+02:00",
+        "seller_type": null,
+        "uuid": "480a93dd-6de2-4757-81ca-3dc43091c8c5"
+      },
+      "status": "active",
+      "contact": {
+        "name": "Bogdan",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 13,
+        "lat": 52.19255,
+        "lon": 20.93517,
+        "radius": 1,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 17871,
+          "name": "Warszawa",
+          "normalized_name": "warszawa"
+        },
+        "district": {
+          "id": 357,
+          "name": "Włochy"
+        },
+        "region": {
+          "id": 2,
+          "name": "Mazowieckie",
+          "normalized_name": "mazowieckie"
+        }
+      },
+      "photos": [
+        {
+          "id": 7396115310,
+          "filename": "ywrk42wdfjhy-PL",
+          "rotation": 0,
+          "width": 800,
+          "height": 800,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/ywrk42wdfjhy-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7396115311,
+          "filename": "t67dpmcbmaks1-PL",
+          "rotation": 0,
+          "width": 800,
+          "height": 800,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/t67dpmcbmaks1-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7396115312,
+          "filename": "5ls5hktwtsfd3-PL",
+          "rotation": 0,
+          "width": 960,
+          "height": 960,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/5ls5hktwtsfd3-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7396115313,
+          "filename": "dduelp16n9lm-PL",
+          "rotation": 0,
+          "width": 960,
+          "height": 960,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/dduelp16n9lm-PL/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 1649,
+        "type": "goods"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": "NotEligible"
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "offer_type": "offer"
+    },
+    {
+      "id": 874779685,
+      "url": "https://www.olx.pl/d/oferta/wynajem-rowerow-elektrycznych-CID3018-IDXcu9L.html",
+      "title": "Wynajem rowerów elektrycznych",
+      "last_refresh_time": "2024-04-20T14:59:32+02:00",
+      "created_time": "2023-11-04T17:43:54+01:00",
+      "valid_to_time": "2024-05-20T14:57:32+02:00",
+      "pushup_time": null,
+      "description": "Wynajem rowerów elektrycznych <br />\nOd 199 do 249 zł / tydzień albo 700-800 zł za miesiąc <br />\nMożliwość złożenia roweru elektrycznego na zamówienie <br />\n<br />\nBEZPŁATNA OPIEKA SERWISOWA <br />\n<br />\nUBER / GLOVO / BOLT /... <br />\nSilnik 250 - 1500 w<br />\nBateria 16 - 21 aH<br />\nPrędkość od 30 do 60 km / h<br />\nZasięg 80-140 km w zależności od trybu jazdy<br />\nDodatkowo na wyposażeniu błotniki. lampki, ładowarka, nóżka, dzwonek i uchwyt na telefon<br />\n<br />\nАРЕНДА Електро велосипедов для курьеров <br />\n<br />\nFacebook / Rower.hub <br />\n<br />\nSklep rowerowy RowerHUB <br />\nGŁOGOWSKA 36<br />\nPn-pt 10 - 18. Sb 10 - 14<br />\nZapraszam",
+      "promotion": {
+        "highlighted": false,
+        "urgent": false,
+        "top_ad": false,
+        "options": [],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "price",
+          "name": "Cena",
+          "type": "price",
+          "value": {
+            "value": 199,
+            "type": "price",
+            "arranged": false,
+            "budget": false,
+            "currency": "PLN",
+            "negotiable": true,
+            "converted_value": null,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": null,
+            "label": "199 zł",
+            "previous_label": null
+          }
+        }
+      ],
+      "key_params": [],
+      "business": true,
+      "user": {
+        "id": 273031148,
+        "created": "2018-08-04T21:10:44+02:00",
+        "other_ads_enabled": true,
+        "name": "RowerHUB",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": null,
+        "photo": null,
+        "banner_mobile": "https://img-resizer.prd.01.eu-west-1.eu.olx.org/img-eu-olxpl-production/1096438472_1_0x0_rev003.jpg",
+        "banner_desktop": "https://img-resizer.prd.01.eu-west-1.eu.olx.org/img-eu-olxpl-production/1096444025_1_1366x210_rev002.jpg",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2024-04-19T16:44:19+02:00",
+        "seller_type": null,
+        "uuid": "84e7e057-dd54-4acb-8cae-35c28f13cf9a"
+      },
+      "status": "active",
+      "contact": {
+        "name": "RowerHUB",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 13,
+        "lat": 52.39895,
+        "lon": 16.89968,
+        "radius": 1,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 13983,
+          "name": "Poznań",
+          "normalized_name": "poznan"
+        },
+        "district": {
+          "id": 703,
+          "name": "Łazarz"
+        },
+        "region": {
+          "id": 1,
+          "name": "Wielkopolskie",
+          "normalized_name": "wielkopolskie"
+        }
+      },
+      "photos": [
+        {
+          "id": 6598239621,
+          "filename": "a92trgp0c4tp-PL",
+          "rotation": 0,
+          "width": 1080,
+          "height": 1080,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/a92trgp0c4tp-PL/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 3024,
+        "type": "goods"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": "NotEligible"
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "offer_type": "offer"
+    },
+    {
+      "id": 612318726,
+      "url": "https://www.olx.pl/d/oferta/agroturystyka-domek-do-wynajecia-caloroczny-klimatyzowany-CID1816-IDFre4u.html",
+      "title": "Agroturystyka, domek do wynajęcia całoroczny , klimatyzowany",
+      "last_refresh_time": "2024-04-20T14:57:51+02:00",
+      "created_time": "2020-06-21T09:26:21+02:00",
+      "valid_to_time": "2024-05-09T10:30:58+02:00",
+      "pushup_time": "2024-04-20T14:57:51+02:00",
+      "omnibus_pushup_time": "2024-04-20T14:57:51+02:00",
+      "description": "W przepięknej cichej, spokojnej i malowniczo położonej wsi Łuszczewo, nad tajemniczym jeziorem Gopło, w gminie Skulsk, w pobliżu czarteru jachtów po Wielkiej Pętli Wielkopolski oraz pozostałości Zespołu Pałacowego Łuszczewo znajduje się nasze gospodarstwo agroturystyczne „Cztery Stawy”.<br />\n<br />\nObiekt położony jest na terenie trzech obszarów chronionych: Nadgoplańskiego Parku Tysiąclecia, obszaru Natura 2000 i Kujawsko - Goplańskiego Obszaru Chronionego Krajobrazu.<br />\n<br />\nGościom oferujemy jeden domek o powierzchni użytkowej ok.100 m2.<br />\nMurowany domek składa się z dwóch pokoi, mamy do wyboru cztero- lub dwuosobowe, między pokojami znajduje się kuchnia oraz łazienka<br />\nz prysznicem.<br />\nPokój dwuosobowy posiada osobne wc. Kuchnia wyposażona jest w: kuchenkę elektryczną o czterech palnikach, piekarnik, lodówko-zamrażarkę, czajnik elektryczny, garnki, zastawę obiadową, sztućce itp.<br />\n<br />\nPokoje wyposażone są w funkcjonalne meble oraz telewizor.<br />\n<br />\nW pokoju czteroosobowym znajduje się kominek.<br />\n<br />\nDomek posiada taras wyposażony w meble ogrodowe. Obiekt jest ogrodzony od frontu, z niestrzeżonym miejscem parkingowym.<br />\nNa terenie ośrodka znajdują się 4 zarybione stawy.<br />\n<br />\nDodatkowo, do dyspozycji gości jest grill, miejsce na ognisko, leżaki, wyspa nad stawem, , miejsce łowieckie, sprzęt golfowy.<br />\nWyżywienie we własnym zakresie.<br />\n<br />\nW Łuszczewie znajdują się 2 sklepy spożywczo-przemysłowe, gości mogą skorzystać również z cateringu pobliskich restauracji, które serwują posiłki z dowozem.<br />\n<br />\nSwoją ofertę kierujemy do rodzin z dziećmi, seniorów, miłośników wędkarstwa, wycieczek po lesie, grzybobrania, fotografów, pasjonatów natury, wszystkich osób pragnących spokoju, wyciszenia, z dala od gwaru miast i stresującej pracy.<br />\n<br />\nWszystkie informację dotyczące domku wolnych terminów proszę kierować pod podany numer telefonu + 48**********06 - Józef i HALINA 50*******44<br />\nSerdecznie polecam<br />\n<br />\nZapraszamy również na naszą stronę na fb :<br />\nAgroturystyka \"Cztery Stawy\" w Łuszczewie<br />\nKontakt polecam",
+      "promotion": {
+        "highlighted": true,
+        "urgent": false,
+        "top_ad": true,
+        "options": [
+          "bundle_optimum"
+        ],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "facilities",
+          "name": "Udogodnienia",
+          "type": "checkboxes",
+          "value": {
+            "key": [
+              "parking",
+              "kids-friendly"
+            ],
+            "label": "Parking, Przyjazny dzieciom"
+          }
+        },
+        {
+          "key": "addfacilities",
+          "name": "Dodatkowe udogodnienia",
+          "type": "checkboxes",
+          "value": {
+            "key": [
+              "grill",
+              "air-condition",
+              "fridge",
+              "playground",
+              "private-bathroom",
+              "bicycles",
+              "terrace",
+              "tv"
+            ],
+            "label": "Grill, Klimatyzacja, Lodówka, Plac zabaw, Prywatna łazienka, Rowery, Taras/balkon, TV"
+          }
+        },
+        {
+          "key": "calendar",
+          "name": "Aktywuj kalendarz",
+          "type": "checkbox",
+          "value": {
+            "key": "1",
+            "label": "active"
+          }
+        },
+        {
+          "key": "price",
+          "name": "Cena za dobę",
+          "type": "price",
+          "value": {
+            "value": 400,
+            "type": "arranged",
+            "arranged": true,
+            "budget": false,
+            "currency": "PLN",
+            "negotiable": true,
+            "converted_value": null,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": null,
+            "label": "400  zł/za dobę",
+            "previous_label": null
+          }
+        },
+        {
+          "key": "type",
+          "name": "Typ noclegu",
+          "type": "select",
+          "value": {
+            "key": "agro",
+            "label": "Agroturystyka"
+          }
+        },
+        {
+          "key": "roomsize",
+          "name": "Liczba osób",
+          "type": "select",
+          "value": {
+            "key": "four",
+            "label": "4 osoby i więcej"
+          }
+        }
+      ],
+      "key_params": [],
+      "business": false,
+      "user": {
+        "id": 69006442,
+        "created": "2017-06-18T19:30:15+02:00",
+        "other_ads_enabled": true,
+        "name": "Jozef",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": null,
+        "photo": null,
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2024-04-03T19:41:38+02:00",
+        "seller_type": null,
+        "uuid": "72450089-1a8a-4165-8ab8-9d505fff257f"
+      },
+      "status": "active",
+      "contact": {
+        "name": "Jozef",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 12,
+        "lat": 52.48055,
+        "lon": 18.33272,
+        "radius": 2,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 15711,
+          "name": "Skulsk",
+          "normalized_name": "skulsk"
+        },
+        "region": {
+          "id": 1,
+          "name": "Wielkopolskie",
+          "normalized_name": "wielkopolskie"
+        }
+      },
+      "photos": [
+        {
+          "id": 3667740640,
+          "filename": "b889cl30qzl71-PL",
+          "rotation": 0,
+          "width": 4032,
+          "height": 1860,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/b889cl30qzl71-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 3667740641,
+          "filename": "bwucnqdcojjg2-PL",
+          "rotation": 0,
+          "width": 4032,
+          "height": 1860,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/bwucnqdcojjg2-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 1696033427,
+          "filename": "9own9ini1sus3-PL",
+          "rotation": 0,
+          "width": 750,
+          "height": 562,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/9own9ini1sus3-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 1696032143,
+          "filename": "igslmxt79wt11-PL",
+          "rotation": 0,
+          "width": 960,
+          "height": 640,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/igslmxt79wt11-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 1696032376,
+          "filename": "rbmkths1c0xv2-PL",
+          "rotation": 0,
+          "width": 1000,
+          "height": 562,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/rbmkths1c0xv2-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 3667740645,
+          "filename": "snqgs07zhy343-PL",
+          "rotation": 0,
+          "width": 1600,
+          "height": 640,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/snqgs07zhy343-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 3667740646,
+          "filename": "gggcb0itav381-PL",
+          "rotation": 0,
+          "width": 1024,
+          "height": 263,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/gggcb0itav381-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 2465043018,
+          "filename": "niifdokub1ya2-PL",
+          "rotation": 90,
+          "width": 323,
+          "height": 700,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/niifdokub1ya2-PL/image;s={width}x{height};r=270"
+        },
+        {
+          "id": 3667740647,
+          "filename": "ixy737dgqmc63-PL",
+          "rotation": 0,
+          "width": 1860,
+          "height": 2153,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/ixy737dgqmc63-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 3667740648,
+          "filename": "1jfxhe3xpo283-PL",
+          "rotation": 0,
+          "width": 1859,
+          "height": 2525,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/1jfxhe3xpo283-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 3667740650,
+          "filename": "b7fylf3kqju12-PL",
+          "rotation": 0,
+          "width": 1200,
+          "height": 1600,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/b7fylf3kqju12-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 3667740651,
+          "filename": "oacozlthn6yf1-PL",
+          "rotation": 0,
+          "width": 1200,
+          "height": 1600,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/oacozlthn6yf1-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 4598797401,
+          "filename": "b6dmjw4cukqc1-PL",
+          "rotation": 0,
+          "width": 1600,
+          "height": 1200,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/b6dmjw4cukqc1-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 4598797402,
+          "filename": "yayflj9wqvfo-PL",
+          "rotation": 0,
+          "width": 1200,
+          "height": 1600,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/yayflj9wqvfo-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 4598797403,
+          "filename": "7mpo6eixqzj31-PL",
+          "rotation": 0,
+          "width": 1600,
+          "height": 1200,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/7mpo6eixqzj31-PL/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 4513,
+        "type": "accommodation"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": "NotEligible"
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "offer_type": "offer"
+    },
+    {
+      "id": 756220557,
+      "url": "https://www.olx.pl/d/oferta/domek-nad-morzem-rowery-w-cenie-jastrzebia-gora-ostrowo-CID1816-IDPb1wL.html",
+      "title": "Domek nad morzem,Rowery w cenie Jastrzębia Góra Ostrowo",
+      "last_refresh_time": "2024-04-20T14:55:59+02:00",
+      "created_time": "2022-05-13T14:59:33+02:00",
+      "valid_to_time": "2024-05-14T14:28:08+02:00",
+      "pushup_time": "2024-04-20T14:55:59+02:00",
+      "omnibus_pushup_time": "2024-04-20T14:55:59+02:00",
+      "description": "Wynajmę nowe, komfortowe, ogrodzone domki nad morzem na wyłączność (jeden domek na posesji) w otoczeniu lasu sosnowego, z dala od zgiełku, a blisko kluczowych atrakcji Pomorza. Spragnionych ciszy, zapachu lasu, nieprzepełnionych piaszczystych plaż zapraszamy do naszego wymarzonego miejsca.<br />\nOkolica słynie  z malowniczych, nadmorskich krajobrazów, ciszy i spokoju oraz z wielu tras pieszych i rowerowych (rowery różnej wielkości bezpłatnie do dyspozycji gości).<br />\n<br />\nOferujemy piękne całoroczne, komfortowe domki z zadaszonym tarasem, z dodatkową markizą chroniącą przed słońcem oraz meblami ogrodowymi by móc miło spędzać czas przy grillu, który jest również wyposażeniem domków.<br />\n<br />\nW środku domku znajduje się 2 łazienki, jedna z kabiną prysznicową, dwie sypialnie na górze, aneks kuchenny wyposażony w płytę indukcyjną, mikrofale, czajnik elektryczny, dużą lodówkę z zamrażarką oraz naczynia, garnki i sztuczce. Kuchnia w połączeniu z salonem i jadalnia dają dużą przestrzeń dla rodzin z dziećmi. Domek jest przeznaczony na max 8 osòb.<br />\n<br />\nNa terenie znajdują się:<br />\n• bezpłatny parking dla Gości,<br />\n• bezpłatne rowery do dyspozycji<br />\n• duży ogrodzony teren multi-funkcyjny, do gry w piłkę.<br />\n• indywidualny ogród do dyspozycji, z miejscem do opalania i grillowania.<br />\n• strefa relaksu komplet mebli ogrodowych, leżaki<br />\n• huśtawka na drzewie i w domku<br />\n• pościel, ręczniki<br />\n• rozkładana sofa dwuosobowa na dole<br />\n• 2 łoża podwójne 160/200 i 140 /200<br />\n• 2 łóżka pojedyncze 90/200<br />\n• Suszarka do ubrań i do włosów <br />\n• Parawan plażowy<br />\n• Grill<br />\n• 6 rowerów w cenie do dyspozycji<br />\n<br />\nCena:<br />\n380 zł doba - maj, wrzesień<br />\n400 zł doba 29.05-30.06<br />\n500 zł doba - 1-19 lipiec - 19-31 sierpień<br />\n550 zł doba - 20 lipiec - 18 sierpień<br />\n270 zł doba - październik - kwiecień<br />\nW sezonie niskim i średnim poniżej 5 dni <br />\nserwis domku dodatkowo płatny.<br />\n<br />\nW sezonie letnim preferujemy pobyty tygodniowe od soboty do soboty.<br />\nDoba hotelowa zaczyna o godzinie 16:00 a kończy się o godzinie 10:00.<br />\n<br />\nCeny obowiązują przy 4 osobach, powyżej 4 max 8 osób cena do uzgodnienia.<br />\n<br />\nTel:<br />\n501<br />\n198<br />\n674<br />\nSerdecznie zapraszamy!!!",
+      "promotion": {
+        "highlighted": true,
+        "urgent": false,
+        "top_ad": true,
+        "options": [
+          "bundle_premium"
+        ],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "facilities",
+          "name": "Udogodnienia",
+          "type": "checkboxes",
+          "value": {
+            "key": [
+              "parking"
+            ],
+            "label": "Parking"
+          }
+        },
+        {
+          "key": "addfacilities",
+          "name": "Dodatkowe udogodnienia",
+          "type": "checkboxes",
+          "value": {
+            "key": [
+              "grill",
+              "fridge",
+              "private-bathroom",
+              "bicycles",
+              "terrace",
+              "tv"
+            ],
+            "label": "Grill, Lodówka, Prywatna łazienka, Rowery, Taras/balkon, TV"
+          }
+        },
+        {
+          "key": "calendar",
+          "name": "Aktywuj kalendarz",
+          "type": "checkbox",
+          "value": {
+            "key": "1",
+            "label": "active"
+          }
+        },
+        {
+          "key": "price",
+          "name": "Cena za dobę",
+          "type": "price",
+          "value": {
+            "value": 270,
+            "type": "price",
+            "arranged": false,
+            "budget": false,
+            "currency": "PLN",
+            "negotiable": true,
+            "converted_value": null,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": null,
+            "label": "270  zł/za dobę",
+            "previous_label": null
+          }
+        },
+        {
+          "key": "type",
+          "name": "Typ noclegu",
+          "type": "select",
+          "value": {
+            "key": "house",
+            "label": "Domki"
+          }
+        },
+        {
+          "key": "roomsize",
+          "name": "Liczba osób",
+          "type": "select",
+          "value": {
+            "key": "four",
+            "label": "4 osoby i więcej"
+          }
+        }
+      ],
+      "key_params": [],
+      "business": false,
+      "user": {
+        "id": 900883192,
+        "created": "2021-07-01T17:04:59+02:00",
+        "other_ads_enabled": true,
+        "name": "Domek nad morzem",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": null,
+        "photo": null,
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2024-04-18T17:30:44+02:00",
+        "seller_type": null,
+        "uuid": "e21d6857-c3f0-43f2-ad0e-d905bc62eded"
+      },
+      "status": "active",
+      "contact": {
+        "name": "Domek nad morzem",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 12,
+        "lat": 54.83128,
+        "lon": 18.30374,
+        "radius": 2,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 86343,
+          "name": "Jastrzębia Góra",
+          "normalized_name": "jastrzebia-gora"
+        },
+        "region": {
+          "id": 5,
+          "name": "Pomorskie",
+          "normalized_name": "pomorskie"
+        }
+      },
+      "photos": [
+        {
+          "id": 4279032343,
+          "filename": "8n9zo7dky9092-PL",
+          "rotation": 0,
+          "width": 4000,
+          "height": 2992,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/8n9zo7dky9092-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 4253202066,
+          "filename": "0eks3kpftphg3-PL",
+          "rotation": 0,
+          "width": 4000,
+          "height": 2992,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/0eks3kpftphg3-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 4279032344,
+          "filename": "xrd7qsvbrxmc1-PL",
+          "rotation": 0,
+          "width": 4000,
+          "height": 2992,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/xrd7qsvbrxmc1-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 4424146828,
+          "filename": "larv15eognd12-PL",
+          "rotation": 0,
+          "width": 2992,
+          "height": 4000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/larv15eognd12-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 4424146830,
+          "filename": "u1ol3br3if7x1-PL",
+          "rotation": 0,
+          "width": 2992,
+          "height": 4000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/u1ol3br3if7x1-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 4131569512,
+          "filename": "8zmc7bmdep941-PL",
+          "rotation": 0,
+          "width": 4000,
+          "height": 3000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/8zmc7bmdep941-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 4253202067,
+          "filename": "uzy1ivassbjl-PL",
+          "rotation": 0,
+          "width": 4000,
+          "height": 2992,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/uzy1ivassbjl-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 4131569511,
+          "filename": "o59zjj0ew8h61-PL",
+          "rotation": 0,
+          "width": 3000,
+          "height": 4000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/o59zjj0ew8h61-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 4253202068,
+          "filename": "cuswdkejpf7n1-PL",
+          "rotation": 0,
+          "width": 2992,
+          "height": 4000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/cuswdkejpf7n1-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 4131807580,
+          "filename": "dae85hqe81l01-PL",
+          "rotation": 0,
+          "width": 3000,
+          "height": 3000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/dae85hqe81l01-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 4131807585,
+          "filename": "pfidx9l5kt7l2-PL",
+          "rotation": 0,
+          "width": 3000,
+          "height": 4000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/pfidx9l5kt7l2-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 4424146826,
+          "filename": "misi7l1pdlp82-PL",
+          "rotation": 0,
+          "width": 480,
+          "height": 640,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/misi7l1pdlp82-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 4131807581,
+          "filename": "ohb465cuakt42-PL",
+          "rotation": 0,
+          "width": 2000,
+          "height": 2667,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/ohb465cuakt42-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 4424146834,
+          "filename": "q9046ee6d76o3-PL",
+          "rotation": 0,
+          "width": 2000,
+          "height": 2674,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/q9046ee6d76o3-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 4196785373,
+          "filename": "cuudmv3fi2u43-PL",
+          "rotation": 0,
+          "width": 3000,
+          "height": 4000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/cuudmv3fi2u43-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 4424146836,
+          "filename": "112zhe1gvejs-PL",
+          "rotation": 0,
+          "width": 1265,
+          "height": 1687,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/112zhe1gvejs-PL/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 4513,
+        "type": "accommodation"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": "NotEligible"
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "offer_type": "offer"
+    },
+    {
+      "id": 873516552,
+      "url": "https://www.olx.pl/d/oferta/domek-w-gorach-sauna-balia-jacuzzi-spa-romantyczny-weekend-we-dwoje-CID1816-IDX7byE.html",
+      "title": "domek w górach SAUNA BALIA JACUZZI spa romantyczny weekend we dwoje",
+      "last_refresh_time": "2024-04-20T14:55:49+02:00",
+      "created_time": "2023-10-30T10:57:41+01:00",
+      "valid_to_time": "2024-04-26T17:45:40+02:00",
+      "pushup_time": "2024-04-20T14:55:49+02:00",
+      "omnibus_pushup_time": "2024-04-20T14:55:49+02:00",
+      "description": "Zapraszamy do OTO.DOMKI znajdź nas na Facebooku i Instagramie<br />\n<br />\nDwa domki i jeden tinyhouse pod samym lasem, z dala od innych zabudowań, z dobrą drogą dojazdową i panoramicznym widokiem na Gorce, Babią Górę i Beskid Wyspowy.<br />\n<br />\nKażdy z domków na wynajem przewidziany został dla 6-8 osób (łącznie 2 domki dla maksymalnie 16 osób) i składa się z dwóch poziomów o łącznej powierzchni 75m2.<br />\n<br />\nOtwarty parter z aneksem kuchennym, salonem i łazienką, w której znajduje się prywatna SAUNA oraz piętro z dwiema sypialniami. Dodatkowo - przestronny balkon, spory taras, BALIA z JACUZZI i mnóstwo zielonej przestrzeni.<br />\n<br />\nPostarzana elewacja, duże przeszklenia, nowoczesny design, połączenie surowego betonu i charakterystycznego dla terenów Podhala drewna, loftowo-industrialny styl - nie jest to typowa góralska chata, ale gwarantujemy Wam, że wszystko zostało tu przemyślane tak, by służyło Waszemu wypoczynkowi. Każdy element oto.domków ma pozwolić Wam zrelaksować się, cieszyć oko i wprowadzać Was w dobry nastrój. <br />\n<br />\nprywatna SAUNA (1h w cenie)<br />\nBALIA Z JACUZZI (350zł/4h)<br />\nMIEJSCE NA OGNISKO<br />\nGRILL<br />\n<br />\n- MASAŻ RELAKSACYJNY I LECZNICZY<br />\nmasaż gorącą czekoladą <br />\nmasaż gorącymi kamieniami <br />\nmasaż stemplami ziołowymi <br />\n- MASAŻ KOBIDO<br />\n- JOGA na tarasie pod samym lasem<br />\n- ROWERY ELEKTRYCZNE<br />\n- WARSZTATY malowania na szkle<br />\n- WARSZTATY nauki masażu <br />\n- FOTOGRAF na imprezy okolicznościowe<br />\n- TORTY/słodkie desery na imprezy okolicznościowe <br />\n<br />\n- SZLAKI TURYSTYCZNE<br />\nLuboń Wielki, Maciejowa, Turbacz, Babia Góra <br />\n- ŚCIEŻKI ROWEROWE <br />\ntrasa na Słowację, trasa dookoła Jeziora Czorsztyńskiego<br />\n- SKANSEN TABORU KOLEJOWEGO w Chabówce <br />\n- RABKOLAND<br />\n- Park Zdrojowy w Rabce-Zdrój<br />\ntężnia solankowa<br />\nboisko do siatkówki plażowej<br />\nkort tenisowy <br />\nplac zabaw, wodny plac zabaw, park linowy, gokarty, dmuchańce<br />\n- REZERWAT BÓR NAD CZERWONEM w Nowym Targu<br />\n- BRAMA W GORCE ścieżka w koronach drzew w Waksmundzie<br />\n- GORĄCE TERMY<br />\nTermy Chochołowskie, Termy Gorący Potok, Termy Bania<br />\n- WYCIĄGI NARCIARSKIE <br />\nwyciąg \"u Żura\" dla najmłodszych/początkujących w Chabówce <br />\nwyciąg Kasina Ski Bike Park w Kasinie Wielkiej <br />\nwyciąg Spytkowice Ski w Spytkowicach <br />\nwyciąg Zadział w Nowym Targu<br />\nwyciąg Mosorny Groń w Zawoi <br />\n- TRASY NA NARTY BIEGOWE #biegówki<br />\nCentrum Narciarstwa Biegowego w Klikuszowej<br />\nTrasa biegowa \"Śladami Olimpijczyków\" Obidowa-Turbacz<br />\n(na miejscu wypożyczalnie sprzętu) <br />\n<br />\n15 procent zniżki do RABKOLAND <br />\n20 procent zniżki do Termy Gorący Potok<br />\n<br />\nwynajmujemy na minimum 2 doby<br />\n<br />\nponiedziałek - piątek 550zł/doba dla 2 osób i 650zł/doba dla 3-8 osób<br />\npiątek - niedziela 950zł/doba<br />\n<br />\n- Święta Bożego Narodzenia 1800zł/doba<br />\n- okres sylwestrowy 2100zł/doba<br />\nwynajmujemy na minimum 4 doby<br />\n<br />\n- Święta Wielkanocne 950zł/doba<br />\nwynajmujemy na minimum 3 doby<br />\n<br />\n- MAJÓWKA 1100zł/doba<br />\n- długie weekendy 1100zł/doba<br />\n- WAKACJE 850zł/doba w tygodniu i 950zł/doba w weekend<br />\n- FERIE ZIMOWE 950zł/doba<br />\nwynajmujemy na minimum 4 doby<br />\n<br />\nZapraszamy do obserwowania nas na Facebooku lub Instagramie OTO.DOMKI gdzie najczęściej wrzucamy informacje o niższych cenach/ofertach last minute/możliwościach wynajmu na 1 dobę",
+      "promotion": {
+        "highlighted": true,
+        "urgent": false,
+        "top_ad": true,
+        "options": [
+          "bundle_premium"
+        ],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "facilities",
+          "name": "Udogodnienia",
+          "type": "checkboxes",
+          "value": {
+            "key": [
+              "parking",
+              "kids-friendly",
+              "disabled-friendly"
+            ],
+            "label": "Parking, Przyjazny dzieciom, Przyjazny niepełnosprawnym"
+          }
+        },
+        {
+          "key": "addfacilities",
+          "name": "Dodatkowe udogodnienia",
+          "type": "checkboxes",
+          "value": {
+            "key": [
+              "grill",
+              "jacuzzi",
+              "air-condition",
+              "fridge",
+              "private-bathroom",
+              "towels",
+              "bicycles",
+              "sauna",
+              "terrace",
+              "tv",
+              "wifi"
+            ],
+            "label": "Grill, Jacuzzi, Klimatyzacja, Lodówka, Prywatna łazienka, Ręczniki, Rowery, Sauna, Taras/balkon, TV, Wi-Fi"
+          }
+        },
+        {
+          "key": "price",
+          "name": "Cena za dobę",
+          "type": "price",
+          "value": {
+            "value": 550,
+            "type": "price",
+            "arranged": false,
+            "budget": false,
+            "currency": "PLN",
+            "negotiable": true,
+            "converted_value": null,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": null,
+            "label": "550  zł/za dobę",
+            "previous_label": null
+          }
+        },
+        {
+          "key": "type",
+          "name": "Typ noclegu",
+          "type": "select",
+          "value": {
+            "key": "house",
+            "label": "Domki"
+          }
+        },
+        {
+          "key": "roomsize",
+          "name": "Liczba osób",
+          "type": "select",
+          "value": {
+            "key": "four",
+            "label": "4 osoby i więcej"
+          }
+        }
+      ],
+      "key_params": [],
+      "business": false,
+      "user": {
+        "id": 38457847,
+        "created": "2016-02-09T21:20:08+01:00",
+        "other_ads_enabled": true,
+        "name": "Renata",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": null,
+        "photo": null,
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2024-04-04T22:30:27+02:00",
+        "seller_type": null,
+        "uuid": "cc2efb3d-793b-4b30-9d10-2826e043207b"
+      },
+      "status": "active",
+      "contact": {
+        "name": "Renata",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 12,
+        "lat": 49.60798,
+        "lon": 19.97072,
+        "radius": 3,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 53681,
+          "name": "Rabka-Zdrój",
+          "normalized_name": "rabka-zdroj"
+        },
+        "region": {
+          "id": 4,
+          "name": "Małopolskie",
+          "normalized_name": "malopolskie"
+        }
+      },
+      "photos": [
+        {
+          "id": 6571163427,
+          "filename": "6nwz335mb07w1-PL",
+          "rotation": 0,
+          "width": 5000,
+          "height": 3333,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/6nwz335mb07w1-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7028923136,
+          "filename": "3veqdeuvhta61-PL",
+          "rotation": 0,
+          "width": 5000,
+          "height": 3327,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/3veqdeuvhta61-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 6571163432,
+          "filename": "15zryvdawfzq-PL",
+          "rotation": 0,
+          "width": 5000,
+          "height": 3327,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/15zryvdawfzq-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 6571239236,
+          "filename": "ycy1m8zxy03q3-PL",
+          "rotation": 0,
+          "width": 5000,
+          "height": 3336,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/ycy1m8zxy03q3-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7200515907,
+          "filename": "eteuuz9jxnpc-PL",
+          "rotation": 0,
+          "width": 3080,
+          "height": 2039,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/eteuuz9jxnpc-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7201302177,
+          "filename": "77hl350e0i27-PL",
+          "rotation": 0,
+          "width": 3080,
+          "height": 2022,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/77hl350e0i27-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 6572106144,
+          "filename": "tyytbwjyha8t3-PL",
+          "rotation": 0,
+          "width": 5000,
+          "height": 3327,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/tyytbwjyha8t3-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 6572106145,
+          "filename": "57pgo2a83u4f3-PL",
+          "rotation": 0,
+          "width": 5000,
+          "height": 3327,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/57pgo2a83u4f3-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 6571163429,
+          "filename": "z11lddj422gk2-PL",
+          "rotation": 0,
+          "width": 5000,
+          "height": 3329,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/z11lddj422gk2-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 6571163430,
+          "filename": "0g48nnvmwztu2-PL",
+          "rotation": 0,
+          "width": 5000,
+          "height": 3327,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/0g48nnvmwztu2-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7200515912,
+          "filename": "t97o4ufcyjps2-PL",
+          "rotation": 0,
+          "width": 3327,
+          "height": 5000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/t97o4ufcyjps2-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7200515913,
+          "filename": "gc1ml1tot42h-PL",
+          "rotation": 0,
+          "width": 3080,
+          "height": 2049,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/gc1ml1tot42h-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 6571163436,
+          "filename": "p1ypabh7e85d-PL",
+          "rotation": 0,
+          "width": 3327,
+          "height": 5000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/p1ypabh7e85d-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 6571163435,
+          "filename": "yop878yzoxz6-PL",
+          "rotation": 0,
+          "width": 5000,
+          "height": 3285,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/yop878yzoxz6-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7028923137,
+          "filename": "nyn828x44a482-PL",
+          "rotation": 0,
+          "width": 786,
+          "height": 1179,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/nyn828x44a482-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7028923138,
+          "filename": "12dlip9dyubg3-PL",
+          "rotation": 0,
+          "width": 3080,
+          "height": 2053,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/12dlip9dyubg3-PL/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 4513,
+        "type": "accommodation"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": "NotEligible"
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "offer_type": "offer"
+    },
+    {
+      "id": 903921352,
+      "url": "https://www.olx.pl/d/oferta/sprzedam-kawalerke-premium-z-balkonem-wysoki-standard-radogoszcz-CID3-IDZaLeE.html",
+      "title": "Sprzedam kawalerkę premium z balkonem, Wysoki standard! Radogoszcz !",
+      "last_refresh_time": "2024-04-20T14:55:45+02:00",
+      "created_time": "2024-03-11T17:48:02+01:00",
+      "valid_to_time": "2024-05-14T12:55:34+02:00",
+      "pushup_time": "2024-04-20T14:55:45+02:00",
+      "omnibus_pushup_time": "2024-04-20T14:55:45+02:00",
+      "description": "Do sprzedaży kawalerka wykończona w wysokim standardzie z dużą kuchnią i balkonem z widokiem na wzniesienia Łódzkie oraz przynalezną komórką lokatorską na 6 pietrze w Łodzi przy zbiegu ulic: Zgierskiej / Jesionowej / Switezianki- Radogoszcz - 31 m2<br />\n<br />\nDOSTEPNE OD ZARAZ !<br />\n<br />\nSprzedaż bezpośrednia.<br />\n<br />\nMieszkanie wykończone z najwyższą starannnością, zaprojektowane i przemyślane w każdym zakresie !<br />\n<br />\nZałączone zdjęcia pokazują  stan obecny po wykończeniu!!! To nie wizualizacje  ! <br />\n<br />\nCharakterystyka mieszkania:<br />\n<br />\nStan techniczny: Mieszkanie bezpośrednio po kompleksowym remoncie  generalnym (nowe wylewki, hydraulika, elektryka, okna, drzwi, glazura, zabudowy meblowe, sprzet RTV I AGD: TV Samsung ze smart TV, zmywarka whirpol, indukcja whirpol, piekarnik whirpol, okap, meble i akcesoria <br />\n- gotowe do zamieszkania !<br />\n<br />\nLiczba pokoi:<br />\n<br />\nPrzedpokoj z wydzielonym miejscem na siedzisko z wieszakami i szafa na ubrania a także zabudową pod liczniki Energi i miejscem na deskę do prasowania.<br />\n<br />\nPrzestronny duży pokoj dzienny, ze stołem rozkładanym, biurkiem, Ścianą TV,  wygodnym rozkladanym narożnikiem z pojemnikiem na posciel oraz z szerokim wyjściem na balkon rozciągającym się przez całe mieszkanie z widokiem na wzniesienia Łódzkie!<br />\n<br />\nKuchnia osobna , ogrom miejsca w postaci blatu roboczego dla miłośników gotowania, z hokerem czekającym na Twoje pierwsze śniadanie:) <br />\n<br />\nŁazienka: z prysznicem i deszczownicą, zabudowa geberit z funkcyjnymi szafkami do przechowywania.<br />\n<br />\nPiwnica / komórka lokatorska zamykana na drzwi antywłamaniowe  gdzie zmieści się nie jeden rower.<br />\n<br />\nBalkon: Tak - z szerokim wyjściem wprost z salonu rozciągającym sie po całej długości mieszkania. Balkon jest zadaszony i ma zamontowana siatkę przeciw gołębią czy dla kota. Miejsce idealne na odpoczynek nawet podczas deszczowych dni<br />\n<br />\nPiętro: 6 (z 10) z windą<br />\n (winda jest nowa)<br />\n<br />\nUmeblowanie: Meble kuchenne oraz szafy wnekowe - wszystko na wymiar od stolarza. Dodatkowo szafa w salonie i przedpokoju systemowa z możliwością dowolnej aranżacji wnętrza, szuflad/półek/koszy/wieszaków itp.<br />\n<br />\nParking: przylegający do bloku zawsze dużo miejsca dla zmotoryzowanych.<br />\n<br />\nUkład komunikacyjny: Bardzo dobry<br />\n<br />\nBliskość sklepów: W okolicy znajduje się mnóstwo sklepów, co sprawia, że codzienne zakupy stanowią czystą przyjemność <br />\n<br />\nTo mieszkanie oferuje:<br />\n<br />\nLokalizację: Doskonałą lokalizację ul. Zgierska 240, Radogoszcz : dużo zieleni, skwerów, parki, Arturowek. Miejsce zapewniające łatwy dostęp do infrastruktury miejskiej, świetny dojazd samochodem oraz rewelacyjny dostęp do komunikacji miejskiej - zarówno autobusy jak i tramwaje. Bliskość centrum również odgrywa tu dużą rolę.<br />\n<br />\nWykończenie: Całość mieszkania przygotowana wg. projektu architekta, w tym wykonanie kuchni i szaf wnękowych przez stolarza. Wszystko starannie przemyślane.<br />\n<br />\nInstalacje: Przemyślane rozmieszczenie wyłączników oświetlenia i instalacji elektrycznej, zapewniające komfortowe użytkowanie o każdej porze dnia i nocy.<br />\n<br />\nOpłaty: Niskie opłaty 400 zl administracyjne, które nie będą dodatkowym obciążeniem w codziennym użytkowaniu.<br />\n<br />\nWyposażenie: Mieszkanie w pełni umeblowane i wyposażone we wszystko widoczne na zdjęciach.<br />\n<br />\nKontakt: Jestem dostępny całą dobę 24h.<br />\nProszę o kontakt telefoniczny badz SMS - w przypadku braku możliwości odbioru telefonu, na pewno oddzwonię. <br />\n<br />\nSzczerze Polecam !",
+      "promotion": {
+        "highlighted": true,
+        "urgent": false,
+        "top_ad": true,
+        "options": [
+          "bundle_premium"
+        ],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "price_per_m",
+          "name": "Cena za m²",
+          "type": "input",
+          "value": {
+            "key": "11580.65",
+            "label": "11580.65 zł/m²"
+          }
+        },
+        {
+          "key": "floor_select",
+          "name": "Poziom",
+          "type": "select",
+          "value": {
+            "key": "floor_6",
+            "label": "6"
+          }
+        },
+        {
+          "key": "furniture",
+          "name": "Umeblowane",
+          "type": "select",
+          "value": {
+            "key": "yes",
+            "label": "Tak"
+          }
+        },
+        {
+          "key": "market",
+          "name": "Rynek",
+          "type": "select",
+          "value": {
+            "key": "secondary",
+            "label": "Wtórny"
+          }
+        },
+        {
+          "key": "price",
+          "name": "Cena",
+          "type": "price",
+          "value": {
+            "value": 359000,
+            "type": "arranged",
+            "arranged": true,
+            "budget": false,
+            "currency": "PLN",
+            "negotiable": true,
+            "converted_value": null,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": null,
+            "label": "359 000 zł",
+            "previous_label": null
+          }
+        },
+        {
+          "key": "builttype",
+          "name": "Rodzaj zabudowy",
+          "type": "select",
+          "value": {
+            "key": "blok",
+            "label": "Blok"
+          }
+        },
+        {
+          "key": "m",
+          "name": "Powierzchnia",
+          "type": "input",
+          "value": {
+            "key": "31",
+            "label": "31 m²"
+          }
+        },
+        {
+          "key": "rooms",
+          "name": "Liczba pokoi",
+          "type": "select",
+          "value": {
+            "key": "two",
+            "label": "2 pokoje"
+          }
+        }
+      ],
+      "key_params": [
+        "price_per_m",
+        "m"
+      ],
+      "business": false,
+      "user": {
+        "id": 18256147,
+        "created": "2013-12-04T20:18:50+01:00",
+        "other_ads_enabled": true,
+        "name": "Michał",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": "facebook",
+        "photo": "https://img-resizer.prd.01.eu-west-1.eu.olx.org/img-eu-olxpl-production/628249029_1_100x100_rev084.jpg",
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2024-04-14T12:53:46+02:00",
+        "seller_type": null,
+        "uuid": "8bc8657f-5691-4fdc-937d-e33dbd8637cc"
+      },
+      "status": "active",
+      "contact": {
+        "name": "Michał",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 13,
+        "lat": 51.82235112,
+        "lon": 19.42950569,
+        "radius": 8,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 10609,
+          "name": "Łódź",
+          "normalized_name": "lodz"
+        },
+        "district": {
+          "id": 301,
+          "name": "Bałuty"
+        },
+        "region": {
+          "id": 7,
+          "name": "Łódzkie",
+          "normalized_name": "lodzkie"
+        }
+      },
+      "photos": [
+        {
+          "id": 7275616809,
+          "filename": "wq5v6dyny8h51-PL",
+          "rotation": 0,
+          "width": 1512,
+          "height": 1512,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/wq5v6dyny8h51-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7275616810,
+          "filename": "mstmu1ic4dd73-PL",
+          "rotation": 0,
+          "width": 1512,
+          "height": 1512,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/mstmu1ic4dd73-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7275616811,
+          "filename": "i4m3vdsroao72-PL",
+          "rotation": 0,
+          "width": 1512,
+          "height": 1512,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/i4m3vdsroao72-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7275616812,
+          "filename": "dnzfjv4wi2ym2-PL",
+          "rotation": 0,
+          "width": 1512,
+          "height": 1512,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/dnzfjv4wi2ym2-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7275616813,
+          "filename": "a94k6l7bf6i81-PL",
+          "rotation": 0,
+          "width": 1512,
+          "height": 1512,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/a94k6l7bf6i81-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7275616814,
+          "filename": "tsmfl8sv93641-PL",
+          "rotation": 0,
+          "width": 1512,
+          "height": 1512,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/tsmfl8sv93641-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7275616815,
+          "filename": "eyno29t8mqww2-PL",
+          "rotation": 0,
+          "width": 1512,
+          "height": 1512,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/eyno29t8mqww2-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7275616816,
+          "filename": "nruj20aon9cw1-PL",
+          "rotation": 0,
+          "width": 1512,
+          "height": 1512,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/nruj20aon9cw1-PL/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 14,
+        "type": "real_estate"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": "NotEligible"
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "offer_type": "offer"
+    },
+    {
+      "id": 913207387,
+      "url": "https://www.olx.pl/d/oferta/bateria-36v-do-roweru-elektrycznego-CID767-IDZNIXp.html",
+      "title": "Bateria 36V do roweru elektrycznego",
+      "last_refresh_time": "2024-04-20T14:54:59+02:00",
+      "created_time": "2024-04-20T14:52:56+02:00",
+      "valid_to_time": "2024-05-20T14:52:56+02:00",
+      "pushup_time": null,
+      "description": "Bateria do roweru elektrycznego 36 volt  przywieziona z Niemiec  <br />\nstan nieznany <br />\nnic nie świeci",
+      "promotion": {
+        "highlighted": false,
+        "urgent": false,
+        "top_ad": false,
+        "options": [],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "price",
+          "name": "Cena",
+          "type": "price",
+          "value": {
+            "value": 60,
+            "type": "price",
+            "arranged": false,
+            "budget": false,
+            "currency": "PLN",
+            "negotiable": true,
+            "converted_value": null,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": null,
+            "label": "60 zł",
+            "previous_label": null
+          }
+        },
+        {
+          "key": "state",
+          "name": "Stan",
+          "type": "select",
+          "value": {
+            "key": "used",
+            "label": "Używane"
+          }
+        }
+      ],
+      "key_params": [],
+      "business": false,
+      "user": {
+        "id": 1309149848,
+        "created": "2022-09-06T12:23:15+02:00",
+        "other_ads_enabled": true,
+        "name": "adri",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": null,
+        "photo": null,
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2024-04-20T14:53:27+02:00",
+        "seller_type": null,
+        "uuid": "4b122200-7c0e-4d31-900e-df0174346355"
+      },
+      "status": "active",
+      "contact": {
+        "name": "adri",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 12,
+        "lat": 50.79645,
+        "lon": 21.42023,
+        "radius": 1,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 33803,
+          "name": "Opatów",
+          "normalized_name": "opatow"
+        },
+        "region": {
+          "id": 13,
+          "name": "Świętokrzyskie",
+          "normalized_name": "swietokrzyskie"
+        }
+      },
+      "photos": [
+        {
+          "id": 7541571159,
+          "filename": "1dq1c0nigmlg1-PL",
+          "rotation": 0,
+          "width": 1920,
+          "height": 1920,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/1dq1c0nigmlg1-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7541571161,
+          "filename": "ws5d0n5b1pwr-PL",
+          "rotation": 0,
+          "width": 1920,
+          "height": 1920,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/ws5d0n5b1pwr-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7541571162,
+          "filename": "07qk1np5xw7u1-PL",
+          "rotation": 0,
+          "width": 1920,
+          "height": 1920,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/07qk1np5xw7u1-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7541571164,
+          "filename": "cirqc0tw6w742-PL",
+          "rotation": 0,
+          "width": 1920,
+          "height": 1920,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/cirqc0tw6w742-PL/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 4254,
+        "type": "goods"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": "Ask4Delivery"
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "offer_type": "offer"
+    },
+    {
+      "id": 910868646,
+      "url": "https://www.olx.pl/d/oferta/rower-elektryczny-CID767-IDZDUxM.html",
+      "title": "Rower elektryczny",
+      "last_refresh_time": "2024-04-20T14:54:48+02:00",
+      "created_time": "2024-04-10T16:53:27+02:00",
+      "valid_to_time": "2024-05-10T16:53:27+02:00",
+      "pushup_time": "2024-04-20T14:54:48+02:00",
+      "omnibus_pushup_time": "2024-04-20T14:54:48+02:00",
+      "description": "Sprzedam rower elektryczny w bardzo dobrym stanie. Gwarancja do 15 czerwca tego roku. Nowy kosztuje ok 5000zl . Cena jaka mnie interesuje to 3800zl. Więcej informacji na ostatnich zdjęciach.",
+      "promotion": {
+        "highlighted": true,
+        "urgent": false,
+        "top_ad": true,
+        "options": [
+          "bundle_optimum"
+        ],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "price",
+          "name": "Cena",
+          "type": "price",
+          "value": {
+            "value": 3800,
+            "type": "price",
+            "arranged": false,
+            "budget": false,
+            "currency": "PLN",
+            "negotiable": true,
+            "converted_value": null,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": null,
+            "label": "3 800 zł",
+            "previous_label": null
+          }
+        },
+        {
+          "key": "state",
+          "name": "Stan",
+          "type": "select",
+          "value": {
+            "key": "used",
+            "label": "Używane"
+          }
+        },
+        {
+          "key": "brand",
+          "name": "Marka",
+          "type": "select",
+          "value": {
+            "key": "others",
+            "label": "Inna"
+          }
+        },
+        {
+          "key": "colorfashion",
+          "name": "Kolor",
+          "type": "select",
+          "value": {
+            "key": "grey",
+            "label": "Szary"
+          }
+        },
+        {
+          "key": "amortisation",
+          "name": "Amortyzacja",
+          "type": "select",
+          "value": {
+            "key": "front",
+            "label": "Przód"
+          }
+        },
+        {
+          "key": "wheelsize",
+          "name": "Rozmiar koła",
+          "type": "select",
+          "value": {
+            "key": "28",
+            "label": "28\""
+          }
+        }
+      ],
+      "key_params": [],
+      "business": false,
+      "user": {
+        "id": 1161943237,
+        "created": "2022-03-30T14:22:52+02:00",
+        "other_ads_enabled": true,
+        "name": "monikaplucinska1",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": null,
+        "photo": null,
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2024-04-15T21:40:41+02:00",
+        "seller_type": null,
+        "uuid": "20367619-89ab-4547-89fc-4cb3b7c2be3f"
+      },
+      "status": "active",
+      "contact": {
+        "name": "monikaplucinska1",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 12,
+        "lat": 52.46336,
+        "lon": 15.49326,
+        "radius": 0,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 27355,
+          "name": "Gorzyca",
+          "normalized_name": "gorzyca_27355"
+        },
+        "region": {
+          "id": 9,
+          "name": "Lubuskie",
+          "normalized_name": "lubuskie"
+        }
+      },
+      "photos": [
+        {
+          "id": 7475848377,
+          "filename": "jfm0zhntb5a52-PL",
+          "rotation": 0,
+          "width": 1020,
+          "height": 765,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/jfm0zhntb5a52-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7475848378,
+          "filename": "cdtkitkm4ty41-PL",
+          "rotation": 0,
+          "width": 1020,
+          "height": 765,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/cdtkitkm4ty41-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7475848379,
+          "filename": "re8gre0ynacf1-PL",
+          "rotation": 0,
+          "width": 1020,
+          "height": 765,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/re8gre0ynacf1-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7475848380,
+          "filename": "gj8s2tm96tb23-PL",
+          "rotation": 0,
+          "width": 1020,
+          "height": 765,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/gj8s2tm96tb23-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7475848381,
+          "filename": "22ioiadaf3521-PL",
+          "rotation": 0,
+          "width": 1020,
+          "height": 765,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/22ioiadaf3521-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7475848382,
+          "filename": "nv70880hi8lc3-PL",
+          "rotation": 0,
+          "width": 720,
+          "height": 1279,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/nv70880hi8lc3-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7475848383,
+          "filename": "hw0mvi19e3uh1-PL",
+          "rotation": 0,
+          "width": 720,
+          "height": 932,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/hw0mvi19e3uh1-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7475848384,
+          "filename": "2c5d7ctto5p7-PL",
+          "rotation": 0,
+          "width": 765,
+          "height": 1020,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/2c5d7ctto5p7-PL/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 1649,
+        "type": "goods"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": "NotEligible"
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "offer_type": "offer"
+    },
+    {
+      "id": 676587347,
+      "url": "https://www.olx.pl/d/oferta/kwatery-prywatne-wladyslawowo-CID1816-IDJMTh9.html",
+      "title": "Kwatery Prywatne Władysławowo",
+      "last_refresh_time": "2024-04-20T14:54:43+02:00",
+      "created_time": "2021-05-08T15:21:43+02:00",
+      "valid_to_time": "2024-05-20T14:52:43+02:00",
+      "pushup_time": "2023-11-22T12:08:12+01:00",
+      "description": "Zapraszamy do Naszych obiektów noclegowych położonych w cichej, spokojnej okolicy Władysławowa:<br />\n- 100 m od Parku <br />\n-200 m do wypożyczalni rowerów <br />\n- 7 min do Stacji PKP(piechotką)<br />\n-10 min do Morza i Centrum(piechotką)<br />\n- 2 min na boisko<br />\n- Stołówka 100m od obiektu (w okresie letnim)<br />\nmożliwość wykupienia śniadań i obiadów<br />\nNa posesji :<br />\n- Sklep Spożywczy(w okresie letnim)<br />\n-Miejsce do grillowania<br />\n- Plac zabaw<br />\nUdostępniamy również:<br />\n-ogrodzony Parking dla gości<br />\n-Internet Wi-Fi<br />\n-łóżeczko turystyczne<br />\n-Na korytarzu szafka z grami,kolorowankami,krzyżówkami <br />\n!! ZWIERZĄTKA mile widziane, mają DARMOWY URLOP !! (miski dla przyjacieli,rowniez posiadamy)<br />\n<br />\n-Kwatera KUBRYK: (cały rok)<br />\nhttps://www.przymorzu.pl/kubryk,4520<br />\nPosiadamy pokoje 2,3 os<br />\nPokój 4 os typu studio<br />\n(We wszystkich pokojach łazienka,balkon,lodówka,czajnik,naczynia,parawan)<br />\nDodatkowo dostęp do: mikrofalówki,jajowaru,Oraz kuchenki elektrycznej. <br />\n!!APARTAMENT !!!<br />\ndwupokojowy  60m ( z łazienką,wyposażoną kuchnia, i 3 balkonami- łóżeczko turystyczne, wanienka,nocniczek,podescik do umywalki,krzesełko do karmienia,deska do prasowania,żelazko,parawan,koc na plażę);<br />\n oraz pokoje 3 os z własnym wejsciem(lazienka,czajnik,lodówka,jajowar,kuchenka elektryczna, naczynia)<br />\n<br />\n- Kwatera PARADNICA:(w okresie letnim) <br />\n<br />\nPosiadamy pokoje 2os,3 os(z ogolnodostepnym aneksem kuchennym,w niektorych pokojach lodowka na wyłączność) oraz 4os w którym znajduje się lodówka, czajnik,naczynia, mikrofalówka <br />\nRównież  4 os z własnym wejsciem i prywatną łazienka(w pokoju lodówka,czajnik,naczynia,mikrofalówka)<br />\nKontakt w wiadomości, Lub pod nr 69*******28",
+      "promotion": {
+        "highlighted": false,
+        "urgent": false,
+        "top_ad": false,
+        "options": [],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "facilities",
+          "name": "Udogodnienia",
+          "type": "checkboxes",
+          "value": {
+            "key": [
+              "disabled-friendly",
+              "animal-friendly",
+              "parking",
+              "board",
+              "kids-friendly"
+            ],
+            "label": "Przyjazny niepełnosprawnym, Zwierzęta mile widziane, Parking, Wyżywienie, Przyjazny dzieciom"
+          }
+        },
+        {
+          "key": "addfacilities",
+          "name": "Dodatkowe udogodnienia",
+          "type": "checkboxes",
+          "value": {
+            "key": [
+              "wifi",
+              "terrace",
+              "private-bathroom",
+              "fridge",
+              "tv",
+              "towels",
+              "playground",
+              "grill"
+            ],
+            "label": "Wi-Fi, Taras/balkon, Prywatna łazienka, Lodówka, TV, Ręczniki, Plac zabaw, Grill"
+          }
+        },
+        {
+          "key": "price",
+          "name": "Cena za dobę",
+          "type": "price",
+          "value": {
+            "value": 60,
+            "type": "price",
+            "arranged": false,
+            "budget": false,
+            "currency": "PLN",
+            "negotiable": true,
+            "converted_value": null,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": null,
+            "label": "60  zł/za dobę",
+            "previous_label": null
+          }
+        },
+        {
+          "key": "type",
+          "name": "Typ noclegu",
+          "type": "select",
+          "value": {
+            "key": "room",
+            "label": "Pokoje gościnne"
+          }
+        },
+        {
+          "key": "roomsize",
+          "name": "Liczba osób",
+          "type": "select",
+          "value": {
+            "key": "four",
+            "label": "4 osoby i więcej"
+          }
+        }
+      ],
+      "key_params": [],
+      "business": false,
+      "user": {
+        "id": 630129313,
+        "created": "2020-06-03T15:38:55+02:00",
+        "other_ads_enabled": true,
+        "name": "wsass",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": null,
+        "photo": null,
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2024-04-20T14:50:26+02:00",
+        "seller_type": null,
+        "uuid": "7bd6af53-1d97-47b5-8856-b82591c440c1"
+      },
+      "status": "active",
+      "contact": {
+        "name": "wsass",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 12,
+        "lat": 54.79351,
+        "lon": 18.40728,
+        "radius": 3,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 40219,
+          "name": "Władysławowo",
+          "normalized_name": "wladyslawowo"
+        },
+        "region": {
+          "id": 5,
+          "name": "Pomorskie",
+          "normalized_name": "pomorskie"
+        }
+      },
+      "photos": [
+        {
+          "id": 7387607980,
+          "filename": "2rfvobn7ychj-PL",
+          "rotation": 0,
+          "width": 1500,
+          "height": 2000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/2rfvobn7ychj-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7387607981,
+          "filename": "f6fdaicial3y2-PL",
+          "rotation": 0,
+          "width": 1500,
+          "height": 2000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/f6fdaicial3y2-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7387607982,
+          "filename": "gdssppnw5zdb1-PL",
+          "rotation": 0,
+          "width": 1500,
+          "height": 2000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/gdssppnw5zdb1-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7387607983,
+          "filename": "us8wwju5qtf8-PL",
+          "rotation": 0,
+          "width": 934,
+          "height": 2000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/us8wwju5qtf8-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7387607984,
+          "filename": "eaent0xmwjxv1-PL",
+          "rotation": 0,
+          "width": 934,
+          "height": 2000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/eaent0xmwjxv1-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7387607985,
+          "filename": "adfa0aa3dzwg3-PL",
+          "rotation": 0,
+          "width": 934,
+          "height": 2000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/adfa0aa3dzwg3-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7387607986,
+          "filename": "a0fwlc4o4fzm2-PL",
+          "rotation": 0,
+          "width": 934,
+          "height": 2000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/a0fwlc4o4fzm2-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7387607987,
+          "filename": "7u6fei1dvudz-PL",
+          "rotation": 0,
+          "width": 934,
+          "height": 2000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/7u6fei1dvudz-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7387607988,
+          "filename": "7lc7bouhzu722-PL",
+          "rotation": 0,
+          "width": 934,
+          "height": 2000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/7lc7bouhzu722-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7387607989,
+          "filename": "d4lh2lui6wi9-PL",
+          "rotation": 0,
+          "width": 934,
+          "height": 2000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/d4lh2lui6wi9-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7387607990,
+          "filename": "941dm27hq9f02-PL",
+          "rotation": 0,
+          "width": 934,
+          "height": 2000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/941dm27hq9f02-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7387607991,
+          "filename": "3f0002k88ue33-PL",
+          "rotation": 0,
+          "width": 934,
+          "height": 2000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/3f0002k88ue33-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7387607992,
+          "filename": "qryqg3nmhmr51-PL",
+          "rotation": 0,
+          "width": 934,
+          "height": 2000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/qryqg3nmhmr51-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7387607993,
+          "filename": "35mwsk713plt1-PL",
+          "rotation": 0,
+          "width": 934,
+          "height": 2000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/35mwsk713plt1-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7387607994,
+          "filename": "7woiugth91n5-PL",
+          "rotation": 0,
+          "width": 934,
+          "height": 2000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/7woiugth91n5-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7387607995,
+          "filename": "nkqgxi9wwgs53-PL",
+          "rotation": 0,
+          "width": 1500,
+          "height": 2000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/nkqgxi9wwgs53-PL/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 4513,
+        "type": "accommodation"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": "NotEligible"
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "offer_type": "offer"
+    },
+    {
+      "id": 913207246,
+      "url": "https://www.olx.pl/d/oferta/fotelik-rowerowy-bobike-kask-CID767-IDZNIW8.html",
+      "title": "Fotelik rowerowy bobike + kask",
+      "last_refresh_time": "2024-04-20T14:54:38+02:00",
+      "created_time": "2024-04-20T14:52:27+02:00",
+      "valid_to_time": "2024-05-20T14:52:27+02:00",
+      "pushup_time": null,
+      "description": "•\tfotelik mocowany z tyłu na bagażniku rowerowym wersja  E-DB o szerokości od 120 -175 mm i max. obciążeniu do 25 kg <br />\n\t•\tdla dzieci w wieku od 9 miesięcy do 5 lat<br />\n\t•\tdla dzieci o wadze od 9 kg do 22 kg<br />\n\t•\tWykonany z trwałych materiałów<br />\n\t•\tWysokie oparcie i wgłębienie na kask<br />\n\t•\tUnikalne podwójne ścianki fotelika<br />\n\t•\tŁatwo regulowana długość pasów<br />\n\t•\tTrzypunktowe pasy bezpieczeństwa<br />\n\t•\tWytrzymała klamra Easy-Click<br />\n\t•\tMiękkie i wygodne naramienniki<br />\n\t•\tRegulowane podnóżki<br />\n\t•\tOsłony na szprychy zintegrowane z podnóżkami<br />\n\t•\tWygodne, wodoodporne siedzenie z miękkiej pianki EVA<br />\n\t•\tŚwiatełko odblaskowe z tyłu dla bezpieczeństwa<br />\n\t•\tFotelik mocowany na bagażniku rowerowym .Bobike MAXI ONE to całkowicie nowy, elegancki i nowoczesny fotelik, wykonany trwałych materiałów, co zapewnia dziecku dokładnie to, czego potrzebuje: komfort i wygodę, bezpieczeństwo i dobrą pozycję . Unikalne podwójne ścianki i jakość wykonania oznaczają  bezkompromisowe bezpieczeństwo. Dzieci w wieku od 9 miesięcy do 6 lat (lub 22 kg) mogą cieszyć maksymalnym komfortem i optymalną ochroną. Trzypunktowy pas z klamrą typu Easy-Click, miękkie naramienniki,  osłony na szprychy zintegrowane podnóżkami i regulacja wysokości położenia podnóżków  oraz światełko odblaskowe gwarantują poczucie bezpieczeństwa dla dzieci i rodziców.Bobike  MAXI ONE został zatwierdzony zgodnie z rygorystycznymi europejskimi normami bezpieczeństwa EN 14344.Fotelik posiada innowacyjną bazę/ramkę montażową, dostosowaną także do rowerów elektrycznych e-bike, łatwy i szybki system mocowania Click & Go na bagażniku rowerowym . Fotelik wyposażony jest w linkę z zamkiem szyfrowym.W opcji dodatkowej 1-punktowy uchwyt montażowy do ramy roweru.<br />\nTylko odbiór osobisty",
+      "promotion": {
+        "highlighted": false,
+        "urgent": false,
+        "top_ad": false,
+        "options": [],
+        "b2c_ad_page": false,
+        "premium_ad_page": false
+      },
+      "params": [
+        {
+          "key": "price",
+          "name": "Cena",
+          "type": "price",
+          "value": {
+            "value": 300,
+            "type": "price",
+            "arranged": false,
+            "budget": false,
+            "currency": "PLN",
+            "negotiable": true,
+            "converted_value": null,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": null,
+            "label": "300 zł",
+            "previous_label": null
+          }
+        },
+        {
+          "key": "state",
+          "name": "Stan",
+          "type": "select",
+          "value": {
+            "key": "used",
+            "label": "Używane"
+          }
+        }
+      ],
+      "key_params": [],
+      "business": false,
+      "user": {
+        "id": 23452175,
+        "created": "2014-06-25T23:08:29+02:00",
+        "other_ads_enabled": true,
+        "name": "Ela",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": "facebook",
+        "photo": "https://img-resizer.prd.01.eu-west-1.eu.olx.org/img-eu-olxpl-production/447362927_1_100x100_rev020.jpg",
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2024-04-20T14:50:42+02:00",
+        "seller_type": null,
+        "uuid": "bcbf8996-87df-4f8c-92ad-2f0b0045b36c"
+      },
+      "status": "active",
+      "contact": {
+        "name": "Ela",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 12,
+        "lat": 52.50889,
+        "lon": 16.25939,
+        "radius": 1,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 122631,
+          "name": "Pniewy",
+          "normalized_name": "pniewy_122631"
+        },
+        "region": {
+          "id": 1,
+          "name": "Wielkopolskie",
+          "normalized_name": "wielkopolskie"
+        }
+      },
+      "photos": [
+        {
+          "id": 7541564645,
+          "filename": "ks1vkefibrab2-PL",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/ks1vkefibrab2-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7541564646,
+          "filename": "7ul99m31mqib-PL",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/7ul99m31mqib-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7541564647,
+          "filename": "990qxzxs4oto2-PL",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/990qxzxs4oto2-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7541564648,
+          "filename": "gyicdbghu2ge3-PL",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/gyicdbghu2ge3-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7541564649,
+          "filename": "dbeu4b8mbnr61-PL",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/dbeu4b8mbnr61-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 7541564650,
+          "filename": "2coos6cqx7fx1-PL",
+          "rotation": 0,
+          "width": 750,
+          "height": 1000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/2coos6cqx7fx1-PL/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 4228,
+        "type": "goods"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": "d3517d81-8c50-4b74-aeb4-c6a85193ae6d",
+          "active": true,
+          "mode": "BuyWithDelivery"
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "offer_type": "offer"
+    },
+    {
+      "id": 818703561,
+      "url": "https://www.olx.pl/d/oferta/aluminiowy-elektryczny-rower-miejski-20-chrisson-ertos20-bafang-CID767-IDTpcc9.html",
+      "title": "Aluminiowy elektryczny rower miejski 20\" CHRISSON ERTOS20 - Bafang",
+      "last_refresh_time": "2024-04-20T14:53:43+02:00",
+      "created_time": "2023-03-01T14:59:35+01:00",
+      "valid_to_time": "2024-05-20T14:51:43+02:00",
+      "pushup_time": null,
+      "description": "Opis przedmiotu:<br />\n<br />\nRower elektryczny CHRISSON ERTOS20 przekonuje swoim niezrównanym designem, wyposażeniem i gwarantuje niezapomniane wrażenia z jazdy! Wydajny silnik w piaście tylnego koła 250 W/36 V firmy Bafang gwarantuje najwyższy poziom osiągów, osiągając maksymalną prędkość 25 km / h.Wysokowydajny akumulator litowo-jonowy Phylion w ramie, o pojemności 10 Ah (360 Wh) i ogniwach Samsung zapewniają zasięg do 80 km.<br />\nMożna szybko przełączać pomiędzy 5 poziomami wsparcia za pomocą jednego przycisku na komputerze LCD! Rower jest wyposażony w przedni widelec amortyzowany Chrisson GX2 – wygląda jak normalny sztywny widelec, a jednak jest sprytnie umieszczony w centralnym punkcie. 50 mm ugięcie sprężyny  zapewnia przyjemny komfort również na nierównym terenie.  8-biegowa przerzutka, zapewnia konfort jazdy w każdym, nawet bardzo nierównym terenie. Hamulce tarczowe TEKTRO ARIOS są gwarancją bezpiecznego hamowania. Zintegrowane w ramę oświetlenie CHRISSON BX2 z dwoma silnymi diodami LED obsługiwane jest przez komputer pokładowy, wystarczy jedno naciśnięcie przycisku.<br />\n<br />\nSzczegóły przedmiotu:<br />\n<br />\nElektryczny rower miejski <br />\nMateriał ramy: aluminium<br />\nNiepowtarzalny design<br />\nRozmiar kół: 20\"<br />\nOpony: kenda 20\"x1.9<br />\nGórna rura: 57cm<br />\nMaksymalna prędkość wspomagania do 25 km/h.<br />\nAkumulator litowo jonowy 10 Ah (360 Wh) ukryty w ramie<br />\nCzas ładowania: do 5h<br />\nBezszczotkowy silnik Bafang w tylnej piaście<br />\nOferuje praktyczny i wygodny sposób podróżowania<br />\n5 poziomów wspomagania + walk<br />\n8 biegów shimano<br />\nDuży wyświetlacz LCD<br />\nHamulce tarczowe tektro<br />\nProfilowane siodełko <br />\nMaksymalny zasięg: do 80km (Maksymalny zasięg może się różnić w zależności od wagi kierowcy, rodzaju jazdy i przebytej trasy)<br />\nMaksymalna prędkość: 25km/h<br />\nZ przodu i z tyłu wbudowane w ramę oświetlenie LED <br />\nKolor: czarny <br />\nWaga: 19kg<br />\nOdpowiedni dla osób o wadze do 125 kg <br />\nProducent: Chrisson<br />\nModel: Ertos20<br />\n<br />\nStan fizyczny:<br />\nRower używany w idealnym stanie w 100% sprawny! Przejechane 164km. Ostatnie zdjęcia real",
+      "promotion": {
+        "highlighted": false,
+        "urgent": false,
+        "top_ad": false,
+        "options": [],
+        "b2c_ad_page": true,
+        "premium_ad_page": true
+      },
+      "params": [
+        {
+          "key": "price",
+          "name": "Cena",
+          "type": "price",
+          "value": {
+            "value": 2890,
+            "type": "price",
+            "arranged": false,
+            "budget": false,
+            "currency": "PLN",
+            "negotiable": true,
+            "converted_value": null,
+            "previous_value": null,
+            "converted_previous_value": null,
+            "converted_currency": null,
+            "label": "2 890 zł",
+            "previous_label": null
+          }
+        },
+        {
+          "key": "state",
+          "name": "Stan",
+          "type": "select",
+          "value": {
+            "key": "used",
+            "label": "Używane"
+          }
+        }
+      ],
+      "key_params": [],
+      "business": true,
+      "user": {
+        "id": 37206321,
+        "created": "2015-12-29T00:44:44+01:00",
+        "other_ads_enabled": true,
+        "name": "Lucy",
+        "logo": null,
+        "logo_ad_page": null,
+        "social_network_account_type": "facebook",
+        "photo": "https://img-resizer.prd.01.eu-west-1.eu.olx.org/img-eu-olxpl-production/645269049_1_100x100_rev176.jpg",
+        "banner_mobile": "",
+        "banner_desktop": "",
+        "company_name": "",
+        "about": "",
+        "b2c_business_page": false,
+        "is_online": false,
+        "last_seen": "2024-04-19T15:04:45+02:00",
+        "seller_type": null,
+        "uuid": "49803a92-8d1b-467d-9cf2-149c689c711e"
+      },
+      "status": "active",
+      "contact": {
+        "name": "Lucy",
+        "phone": true,
+        "chat": true,
+        "negotiation": true,
+        "courier": false
+      },
+      "map": {
+        "zoom": 12,
+        "lat": 50.3308,
+        "lon": 19.22989,
+        "radius": 1,
+        "show_detailed": false
+      },
+      "location": {
+        "city": {
+          "id": 4905,
+          "name": "Dąbrowa Górnicza",
+          "normalized_name": "dabrowa-gornicza"
+        },
+        "region": {
+          "id": 6,
+          "name": "Śląskie",
+          "normalized_name": "slaskie"
+        }
+      },
+      "photos": [
+        {
+          "id": 5431868591,
+          "filename": "j5raq7r46a0l3-PL",
+          "rotation": 0,
+          "width": 1416,
+          "height": 1500,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/j5raq7r46a0l3-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 5431868592,
+          "filename": "8l92dq04x0so2-PL",
+          "rotation": 0,
+          "width": 1500,
+          "height": 1076,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/8l92dq04x0so2-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 5431868593,
+          "filename": "kevkcurpkue12-PL",
+          "rotation": 0,
+          "width": 1500,
+          "height": 962,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/kevkcurpkue12-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 5431868594,
+          "filename": "dtk31x44h2f9-PL",
+          "rotation": 0,
+          "width": 1500,
+          "height": 962,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/dtk31x44h2f9-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 5431868595,
+          "filename": "j62dzaebj20o2-PL",
+          "rotation": 0,
+          "width": 1500,
+          "height": 1022,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/j62dzaebj20o2-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 5442737731,
+          "filename": "z3rc5d5hphok3-PL",
+          "rotation": 0,
+          "width": 999,
+          "height": 1000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/z3rc5d5hphok3-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 5442737732,
+          "filename": "21n2kcij1mez2-PL",
+          "rotation": 0,
+          "width": 1000,
+          "height": 968,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/21n2kcij1mez2-PL/image;s={width}x{height}"
+        },
+        {
+          "id": 5442737733,
+          "filename": "qgj1wi3rtzev1-PL",
+          "rotation": 0,
+          "width": 994,
+          "height": 1000,
+          "link": "https://ireland.apollo.olxcdn.com:443/v1/files/qgj1wi3rtzev1-PL/image;s={width}x{height}"
+        }
+      ],
+      "partner": null,
+      "category": {
+        "id": 1649,
+        "type": "goods"
+      },
+      "delivery": {
+        "rock": {
+          "offer_id": null,
+          "active": false,
+          "mode": "NotEligible"
+        }
+      },
+      "safedeal": {
+        "weight": 0,
+        "weight_grams": 0,
+        "status": "unactive",
+        "safedeal_blocked": false,
+        "allowed_quantity": []
+      },
+      "shop": {
+        "subdomain": null
+      },
+      "offer_type": "offer"
+    }
+  ],
+  "metadata": {
+    "total_elements": 1000,
+    "visible_total_count": 34508,
+    "promoted": [
+      0,
+      1,
+      2
+    ],
+    "search_id": "9CF81BAB033E9056AD65F87BEB53C78E",
+    "filter_suggestions": [
+      {
+        "name": "filter_float_price",
+        "category": 4513,
+        "type": "price",
+        "label": "Cena za dobę",
+        "unit": " zł/za dobę",
+        "values": [],
+        "constraints": {
+          "type": "float"
+        }
+      },
+      {
+        "name": "filter_enum_type",
+        "category": 4513,
+        "type": "select",
+        "label": "Typ noclegu",
+        "unit": null,
+        "values": [
+          {
+            "label": "Pokoje gościnne",
+            "value": "room"
+          },
+          {
+            "label": "Apartamenty",
+            "value": "flat"
+          },
+          {
+            "label": "Domki",
+            "value": "house"
+          },
+          {
+            "label": "Kempingi",
+            "value": "camping"
+          },
+          {
+            "label": "Pensjonaty i hotele",
+            "value": "hostel"
+          },
+          {
+            "label": "Agroturystyka",
+            "value": "agro"
+          },
+          {
+            "label": "Pozostałe",
+            "value": "other"
+          }
+        ],
+        "constraints": {
+          "type": "string"
+        }
+      },
+      {
+        "name": "filter_enum_roomsize",
+        "category": 4513,
+        "type": "select",
+        "label": "Liczba osób",
+        "unit": null,
+        "values": [
+          {
+            "label": "1 osoba",
+            "value": "one"
+          },
+          {
+            "label": "2 osoby",
+            "value": "two"
+          },
+          {
+            "label": "3 osoby",
+            "value": "three"
+          },
+          {
+            "label": "4 osoby i więcej",
+            "value": "four"
+          }
+        ],
+        "constraints": {
+          "type": "string"
+        }
+      },
+      {
+        "name": "filter_enum_facilities",
+        "category": 4513,
+        "type": "checkboxes",
+        "label": "Udogodnienia",
+        "unit": null,
+        "values": [
+          {
+            "label": "Parking",
+            "value": "parking"
+          },
+          {
+            "label": "Płatność kartą",
+            "value": "card-payment"
+          },
+          {
+            "label": "Przyjazny dzieciom",
+            "value": "kids-friendly"
+          },
+          {
+            "label": "Przyjazny niepełnosprawnym",
+            "value": "disabled-friendly"
+          },
+          {
+            "label": "Wyżywienie",
+            "value": "board"
+          },
+          {
+            "label": "Zwierzęta mile widziane",
+            "value": "animal-friendly"
+          }
+        ],
+        "constraints": {
+          "type": "string"
+        }
+      }
+    ],
+    "adverts": {
+      "places": null,
+      "config": {
+        "targeting": {
+          "env": "production",
+          "lang": "pl",
+          "account": "",
+          "dfp_user_id": "3f98da8d-edaf-4f10-b2b9-a93a2b102a89-ver-2",
+          "user_status": "0",
+          "cat_l0": "ads",
+          "cat_id": "0",
+          "private_business": "all",
+          "offer_seek": "all",
+          "view": "gallery",
+          "search_engine_input": "rower elektryczny",
+          "page": "1",
+          "segment": [],
+          "app_version": ""
+        }
+      }
+    },
+    "source": {
+      "promoted": [
+        0,
+        1,
+        2
+      ],
+      "organic": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    }
+  },
+  "links": {
+    "self": {
+      "href": "https://www.olx.pl/api/v1/offers?offset=10&limit=10&query=rower+elektryczny&sort_by=created_at%3Adesc&filter_refiners=spell_checker&suggest_filters=true&sl=18ef851b9e1x5531fb31"
+    },
+    "previous": {
+      "href": "https://www.olx.pl/api/v1/offers?offset=0&limit=10&query=rower+elektryczny&sort_by=created_at%3Adesc&filter_refiners=spell_checker&suggest_filters=true&sl=18ef851b9e1x5531fb31"
+    },
+    "next": {
+      "href": "https://www.olx.pl/api/v1/offers?offset=20&limit=10&query=rower+elektryczny&sort_by=created_at%3Adesc&filter_refiners=spell_checker&suggest_filters=true&sl=18ef851b9e1x5531fb31"
+    },
+    "first": {
+      "href": "https://www.olx.pl/api/v1/offers?offset=0&limit=10&query=rower+elektryczny&sort_by=created_at%3Adesc&filter_refiners=spell_checker&suggest_filters=true&sl=18ef851b9e1x5531fb31"
+    }
+  }
+}
